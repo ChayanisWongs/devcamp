@@ -1,0 +1,31 @@
+legend {
+    padding: 5px 10px;
+}
+
+table {
+    width: 390px;
+    margin: auto;
+    text-align:left;
+}
+
+form {
+    text-align: center;
+    width: 550px;
+    margin: auto;
+}
+
+.dropD {
+    width: 40px;
+}
+
+.dropY {
+    width: 60px;
+}
+
+.textbox {
+    width: 200px;
+}
+
+td {
+    width: 150px;
+}
