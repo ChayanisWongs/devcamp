@@ -1,0 +1,113 @@
+.mainMenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d1d1d1;
+  }
+
+.mainMenu li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.active {
+    background-color: #4d90fe;
+  }
+
+h1 {
+    text-align: center;
+}
+
+.profilePic {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto auto;
+}
+
+p {
+    text-align: justify;
+    text-indent: 5%;
+}
+
+.contactList {
+    list-style: none;
+}
+
+/*Homework #3 : Portfolio*/
+
+.searchMenu {
+    text-align: center;
+    border: 2px solid black;
+}
+
+.blockMenu {
+    width: 80%;
+    margin: auto;
+}
+
+.toolsBar {
+    width: 16%;
+    margin: auto;
+}
+
+.picApp {
+    width: 40px;
+    margin: 5px;
+}
+
+.myApp {
+    padding: 15px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.searchBar {
+    margin: 5px;
+    text-align: left;
+    width: 200px;
+}
+
+.btn {
+    background-color: #037ffd;
+    color: white;
+    width: 60px;
+    border-radius: 10px;
+}
+
+.newPro {
+    color: blue;
+    text-decoration: underline;
+}
+
+.picPro {
+    width: 150px;
+}
+
+.detailPro {
+    width: 80%;
+    padding: 5px 10px;
+    margin: auto;
+}
+
+.proPic {
+    width: 20%;
+    padding: 5px 5px;
+}
+
+.proDetail {
+    float: left;
+    margin: 10px;
+}
+
+.listD {
+    list-style-type: none;
+}
