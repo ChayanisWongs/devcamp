@@ -15,6 +15,6 @@ function draw(n) {
 }
 
 
-draw(4);
+draw(2);
 //draw(3);
 //draw(4);
