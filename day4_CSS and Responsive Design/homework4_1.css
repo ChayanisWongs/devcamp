@@ -1,0 +1,19 @@
+.flex-container-all {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-container-col {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: auto;
+}
