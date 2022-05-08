@@ -1,0 +1,62 @@
+{
+    "student": [   
+    {
+        "firstName": "Chayanis",
+        "lastName": "Wongsawangsiri",
+        "age": "26",
+        "gender":"female",
+        "address": [
+            {
+                "sub_district": "ThungPhayaThai",
+                "district": "Ratchathewi",
+                "province": "Bangkok"
+            }
+        ],
+        "contact": [
+            {
+                "mobile": "0999999999",
+                "email": "c_mail@testmail.com"
+            }
+        ]
+    },
+    {
+        "firstName": "Paiboon",
+        "lastName": "Panusbordee",
+        "age": "35",
+        "gender":"male",
+        "address": [
+            {
+                "sub_district": "Mahasawasd",
+                "district": "Bangkrew",
+                "province": "Nonthaburi"
+            }
+        ],
+        "contact": [
+            {
+                "mobile": "0999999999",
+                "email": "paiboonpa@thaiprogrammer.org"
+            }
+        ]
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "age": "17",
+        "gender":"male",
+        "address": [
+            {
+                "sub_district": "Chrystie Street",
+                "district": "Manhattan",
+                "province": "New York"
+            }
+        ],
+        "contact": [
+            {
+                "mobile": "0999999999",
+                "email": "spiderman@marvel.com"
+            }
+        ]
+    }
+]
+
+}
